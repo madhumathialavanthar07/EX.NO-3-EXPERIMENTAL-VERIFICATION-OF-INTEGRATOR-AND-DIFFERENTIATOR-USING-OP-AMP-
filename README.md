@@ -1,8 +1,8 @@
 3. ##**EX.NO:
 ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
-             3A INTEGRATOR
+## DATE : 06.09.2025 
+## 3A INTEGRATOR
 ---
 
 ## AIM
@@ -61,20 +61,20 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+<img width="930" height="286" alt="image" src="https://github.com/user-attachments/assets/08c365e9-256c-4c8a-b9ec-36788ac2ff05" />
+                 |                             |                           |                           |                              |                            |
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![INTEGRATOR](https://github.com/user-attachments/assets/b9a44970-8d63-4b48-85b8-ff0f4aa2838e)
+
 
 
 ---
-**DATE:**  
-             3 B DIFFERENTIATOR
+## DATE : 13.09.2025  
+## 3 B DIFFERENTIATOR
 ---
 
 ## AIM
@@ -149,13 +149,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+<img width="894" height="421" alt="image" src="https://github.com/user-attachments/assets/65c63ba9-010a-4dd7-bfb1-ea528993358a" />
+          |                           |                           |                              |                            |
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsADIFFERENTIATOR](https://github.com/user-attachments/assets/e5fa880e-f8da-46c5-939c-97d752723f5b)
+
 
 ---
 
