@@ -62,7 +62,7 @@ We get , R1 =	and hence Rf =
 
 ## TABULATION
 <img width="930" height="286" alt="image" src="https://github.com/user-attachments/assets/08c365e9-256c-4c8a-b9ec-36788ac2ff05" />
-                 |                             |                           |                           |                              |                            |
+                                                                                                                                                            
 		
 
 ---
