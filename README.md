@@ -150,7 +150,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
  ## TABULATION
 <img width="894" height="421" alt="image" src="https://github.com/user-attachments/assets/65c63ba9-010a-4dd7-bfb1-ea528993358a" />
-          |                           |                           |                              |                            |
+                                                                                                                        
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
