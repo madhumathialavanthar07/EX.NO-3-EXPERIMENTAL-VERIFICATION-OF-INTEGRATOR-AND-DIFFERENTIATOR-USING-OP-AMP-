@@ -36,13 +36,13 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/436151af-1dfc-4b2f-9bd6-fe990308c37b" />
 
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/072e9b1c-a125-4434-9c13-bc9ab52104d6" />
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/b5139164-7f38-4d33-abf7-bb8443b69b86" />
 
 ---
 
@@ -109,22 +109,12 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1d34bb39-4a3f-4529-b710-98e297dbee6f" />
 
 
 ## MODEL GRAPH
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/c3e20eb4-a788-43c0-a5f9-c0878684a849" />
 
-(i)	 SINE WAVE INPUT
-
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
----
-
-AND
-
-(ii) SQUARE WAVE INPUT
-
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
 
 
 ---
